@@ -10,6 +10,7 @@ namespace git_practice
             Console.WriteLine("Hello World!");
             Console.WriteLine("hello");
             Console.WriteLine("git1");
+            Console.WriteLine("new branch");
         }
     }
 }
