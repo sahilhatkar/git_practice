@@ -6,9 +6,10 @@ namespace git_practice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("hello");
+            Console.WriteLine("hell1o");
             Console.WriteLine("git");
+            Console.WriteLine("Hello World!");
+
         }
     }
 }
