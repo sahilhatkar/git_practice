@@ -9,6 +9,7 @@ namespace git_practice
             Console.WriteLine("hell1o");
             Console.WriteLine("git");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("hii");
 
         }
     }
